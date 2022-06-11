@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainsparsh5&label=Profile%20views&color=0e75b6&style=flat" alt="jainsparsh5" /> </p>
 
 
-- 🔭 I’m currently working on **Land Deeds NFT Based Blockchain Project**
+- 🔭 I’m currently working on **Building dApp on Near blockchain**
 
-- 🌱 I’m currently learning **React JS ⚛️**
+- 🌱 I’m currently learning **Next JS ⚛️** and **Specialization in Applied Cryptography 🔒**
 
-- 💬 Ask me about **Full Stack Web Development 👻, Blockchain 🦄**
+- 💬 Ask me about **Full Stack Web Development 👻, Web3 🦄**
 
 - 📫 How to reach me **jainsparsh17@gmail.com**
 
