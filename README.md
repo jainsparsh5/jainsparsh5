@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Building dApp on Near blockchain**
 
-- 🌱 I’m currently learning **Next JS ⚛️** and **Specialization in Applied Cryptography 🔒**
+- 🌱 I’m currently learning **Next JS ⚛️**
 
 - 💬 Ask me about **Full Stack Web Development 👻, Web3 🦄**
 
