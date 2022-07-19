@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainsparsh5&label=Profile%20views&color=0e75b6&style=flat" alt="jainsparsh5" /> </p>
 
 
-- 🔭 I’m currently working on **Building dApp on Near blockchain**
+- 🔭 I’m currently working on **Building Full Stack Website**
 
 - 🌱 I’m currently learning **Next JS ⚛️**
 
