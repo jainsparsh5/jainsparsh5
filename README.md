@@ -5,13 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainsparsh5&label=Profile%20views&color=0e75b6&style=flat" alt="jainsparsh5" /> </p>
 
 
-- 🔭 I’m currently working on **React Based Chat App**
+- 🔭 I’m currently working on my **Problem Solving Skills**
 
-- 🌱 I’m currently getting better at Problem Solving using Data Structures and Algorithms
+- 🌱 I’m currently getting better at **ReactJS**
 
 - 💬 Ask me about **Full Stack Web Development 👻, Competitve Programming 🦄**
 
-- 📫 How to reach me **jainsparsh17@gmail.com**
+- 📫 How to reach me : **jainsparsh17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
