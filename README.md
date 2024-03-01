@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my **Problem Solving Skills**
 
-- 🌱 I’m currently getting better at **ReactJS**
+- 🌱 I’m currently getting better at **Typescript**
 
 - 💬 Ask me about **Full Stack Web Development 👻, Competitve Programming 🦄**
 
